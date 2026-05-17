@@ -3,25 +3,25 @@
     "id": 1,
     "title": "第1問",
     "description": "かんたん３手詰",
-    "initialSfen": "8l/8k/9/7L1/6N2/9/9/9/9 b - 1"
+    "initialSfen": "8l/8k/9/7L1/6N2/9/9/9/9 b Gr2b3g4s3n4l17p 1"
   },
   {
     "id": 2,
     "title": "第2問",
     "description": "かんたん３手詰",
-    "initialSfen": "8s/8k/6G2/7L1/9/9/9/9/9 b - 1"
+    "initialSfen": "8s/8k/6G2/7L1/9/9/9/9/9 b Gr2b3g4s3n4l17p 1"
   },
   {
     "id": 3,
     "title": "第3問",
     "description": "かんたん３手詰",
-    "initialSfen": "6RG1/8k/6spp/9/9/9/9/9/9 b - 1"
+    "initialSfen": "6RG1/8k/6spp/9/9/9/9/9/9 b Gr2b3g4s3n4l17p 1"
   },
   {
     "id": 4,
     "title": "第4問",
     "description": "かんたん３手詰",
-    "initialSfen": "6R2/5G1k1/6spp/9/9/9/9/9/9 b - 1"
+    "initialSfen": "6R2/5G1k1/6spp/9/9/9/9/9/9 b Gr2b3g4s3n4l17p 1"
   },
   {
     "id": 5,
@@ -33,7 +33,7 @@
     "id": 6,
     "title": "第6問",
     "description": "かんたん３手詰",
-    "initialSfen": "6B1s/6P1k/9/7S1/9/9/9/9/9 b - 1"
+    "initialSfen": "6B1s/6P1k/9/7S1/9/9/9/9/9 b Gr2b3g4s3n4l17p 1"
   },
   {
     "id": 7,
@@ -285,7 +285,7 @@
     "id": 48,
     "title": "第48問",
     "description": "かんたん３手詰",
-    "initialSfen": "5+B2l/5gsk1/6p1p/9/9/9/9/9/9 b - 1"
+    "initialSfen": "5+B2l/5gsk1/6p1p/9/9/9/9/9/9 b Gr2b3g4s3n4l17p 1"
   },
   {
     "id": 49,
