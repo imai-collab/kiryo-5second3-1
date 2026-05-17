@@ -1377,7 +1377,7 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
                 transition-all duration-200
               `}
             >
-              <span className={`text-lg sm:text-2xl font-bold ${color === Color.White ? 'rotate-180 text-amber-900' : 'text-amber-950'} ${isEditMode && count === 0 ? 'opacity-30' : ''}`}>
+              <span className={`font-bold ${color === Color.White ? 'text-lg sm:text-2xl rotate-180 text-amber-900' : 'text-xl sm:text-2xl md:text-3xl text-amber-950'} ${isEditMode && count === 0 ? 'opacity-30' : ''}`}>
                 {PIECE_NAMES[kind as string] || kind}
               </span>
               {(count as number) > 1 && (
