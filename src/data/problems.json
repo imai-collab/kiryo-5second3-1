@@ -273,7 +273,7 @@
     "id": 46,
     "title": "第46問",
     "description": "かんたん３手詰",
-    "initialSfen": "9/8k/6g2/5b3/9/9/9/9/9 b G2rb2g4s4n4l18p 1"
+    "initialSfen": "9/8k/6G2/5b3/9/9/9/9/9 b G2rb2g4s4n4l18p 1"
   },
   {
     "id": 47,
@@ -285,7 +285,7 @@
     "id": 48,
     "title": "第48問",
     "description": "かんたん３手詰",
-    "initialSfen": "5+B2l/5gsk1/6p1p/9/9/9/9/9/9 b 2rb3g3s4n3l16p 1"
+    "initialSfen": "5+B2l/5gSk1/6p1p/9/9/9/9/9/9 b 2rb3g3s4n3l16p 1"
   },
   {
     "id": 49,
